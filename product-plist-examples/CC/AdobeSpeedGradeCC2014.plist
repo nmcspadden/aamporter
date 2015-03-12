@@ -5,12 +5,14 @@
 	<key>channels</key>
 	<array>
 		<string>AdobeSpeedGrade-8.0.0-Trial</string>
+		<string>AdobeSpeedGradeCC2014LangPackde_DE-8.0.0</string>
+		<string>AdobeSpeedGradeCC2014LangPacken_US-8.0.0</string>
+		<string>AdobeSpeedGradeCC2014LangPackes_ES-8.0.0</string>
+		<string>AdobeSpeedGradeCC2014LangPackfr_FR-8.0.0</string>
+		<string>AdobeSpeedGradeCC2014LangPackit_IT-8.0.0</string>
+		<string>AdobeSpeedGradeCC2014LangPackja_JP-8.0.0</string>
+		<string>AdobeSpeedGradeCC2014LangPackpt_BR-8.0.0</string>
+		<string>AdobeSpeedGradeCC2014LangPackru_RU-8.0.0</string>
 	</array>
-    <key>munki_update_for</key>
-	<array>
-	    <string>AdobeSpeedGradeCC2014</string>
-    </array>
-    <key>munki_repo_destination_path</key>
-    <string>apps/Adobe/CC/2014</string>
 </dict>
 </plist>
