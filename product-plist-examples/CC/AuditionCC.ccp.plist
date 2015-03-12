@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channels</key>
+	<array>
+		<string>AdobeAudition-7.0.0-Trial</string>
+		<string>AdobeAuditionCC2014LangPackde_DE-7.0.0</string>
+		<string>AdobeAuditionCC2014LangPacken_US-7.0.0</string>
+		<string>AdobeAuditionCC2014LangPackes_ES-7.0.0</string>
+		<string>AdobeAuditionCC2014LangPackfr_FR-7.0.0</string>
+		<string>AdobeAuditionCC2014LangPackit_IT-7.0.0</string>
+		<string>AdobeAuditionCC2014LangPackja_JP-7.0.0</string>
+		<string>AdobeAuditionCC2014LangPackko_KR-7.0.0</string>
+		<string>AdobeAuditionCC2014LangPackzh_CN-7.0.0</string>
+		<string>AdobeDynamicLinkMediaServer-7.0</string>
+		<string>AdobeDynamiclinkSupport-7</string>
+	</array>
+</dict>
+</plist>

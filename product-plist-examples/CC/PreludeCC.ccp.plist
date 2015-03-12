@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channels</key>
+	<array>
+		<string>AdobeAPE3.4_Mac_NoLocale</string>
+		<string>AdobeAmericanEnglishSpeechAnalysisModels4.0-4.0</string>
+		<string>AdobePrelude-3.0.0-Trial</string>
+		<string>AdobePreludeCC2014LangPackde_DE-3.0.0</string>
+		<string>AdobePreludeCC2014LangPacken_US-3.0.0</string>
+		<string>AdobePreludeCC2014LangPackes_ES-3.0.0</string>
+		<string>AdobePreludeCC2014LangPackfr_FR-3.0.0</string>
+		<string>AdobePreludeCC2014LangPackit_IT-3.0.0</string>
+		<string>AdobePreludeCC2014LangPackja_JP-3.0.0</string>
+		<string>AdobePreludeCC2014LangPackko_KR-3.0.0</string>
+		<string>AdobePreludeCC2014LangPackpt_BR-3.0.0</string>
+		<string>AdobePreludeCC2014LangPackru_RU-3.0.0</string>
+		<string>AdobePreludeCC2014LangPackzh_CN-3.0.0</string>
+	</array>
+</dict>
+</plist>

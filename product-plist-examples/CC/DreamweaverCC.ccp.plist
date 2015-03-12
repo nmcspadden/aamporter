@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channels</key>
+	<array>
+		<string>AdobeAPE3.4_Mac_NoLocale</string>
+		<string>AdobeDreamweaverCC2014.1LangPackcs_CZ-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackde_DE-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPacken_US-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackes_ES-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackfr_FR-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackit_IT-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackja_JP-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPacknl_NL-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackpl_PL-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackpt_BR-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackru_RU-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPacksv_SE-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPacktr_TR-15.0.0</string>
+		<string>AdobeDreamweavercc1564Bit</string>
+	</array>
+</dict>
+</plist>
