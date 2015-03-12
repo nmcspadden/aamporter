@@ -5,13 +5,40 @@
 	<key>channels</key>
 	<array>
 		<string>AdobeAPE3.4_Mac_NoLocale</string>
+		<string>AdobeColorCommonSetCMYK-5.0</string>
+		<string>AdobeColorCommonSetRGB-5.0</string>
+		<string>AdobeColorEUExtraSettingsCC-5.0</string>
+		<string>AdobeColorEURecommendedSettingsCC-5.0</string>
+		<string>AdobeColorJAExtraSettingsCC-5.0</string>
+		<string>AdobeColorJARecommendedSettingsCC-5.0</string>
+		<string>AdobeColorNAExtraSettingsCC-5.0</string>
+		<string>AdobeColorNARecommendedSettingsCC-5.0</string>
+		<string>AdobeIllustrator18-csCZ</string>
+		<string>AdobeIllustrator18-daDK</string>
+		<string>AdobeIllustrator18-deDE</string>
+		<string>AdobeIllustrator18-enAE</string>
+		<string>AdobeIllustrator18-enGB</string>
+		<string>AdobeIllustrator18-enIL</string>
+		<string>AdobeIllustrator18-enUS</string>
+		<string>AdobeIllustrator18-esES</string>
+		<string>AdobeIllustrator18-esMX</string>
+		<string>AdobeIllustrator18-frCA</string>
+		<string>AdobeIllustrator18-frFR</string>
+		<string>AdobeIllustrator18-frMA</string>
+		<string>AdobeIllustrator18-huHU</string>
+		<string>AdobeIllustrator18-itIT</string>
+		<string>AdobeIllustrator18-jaJP</string>
+		<string>AdobeIllustrator18-koKR</string>
 		<string>AdobeIllustrator18-mul</string>
+		<string>AdobeIllustrator18-nlNL</string>
+		<string>AdobeIllustrator18-plPL</string>
+		<string>AdobeIllustrator18-ptBR</string>
+		<string>AdobeIllustrator18-ruRU</string>
+		<string>AdobeIllustrator18-svSE</string>
+		<string>AdobeIllustrator18-trTR</string>
+		<string>AdobeIllustrator18-ukUA</string>
+		<string>AdobeIllustrator18-zhCN</string>
+		<string>AdobeIllustrator18-zhTW</string>
 	</array>
-    <key>munki_update_for</key>
-	<array>
-	    <string>AdobeIllustratorCC2014</string>
-    </array>
-    <key>munki_repo_destination_path</key>
-    <string>apps/Adobe/CC/2014</string>
 </dict>
 </plist>
