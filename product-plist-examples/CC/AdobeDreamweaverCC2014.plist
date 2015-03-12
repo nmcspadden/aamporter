@@ -5,13 +5,20 @@
 	<key>channels</key>
 	<array>
 		<string>AdobeAPE3.4_Mac_NoLocale</string>
+		<string>AdobeDreamweaverCC2014.1LangPackcs_CZ-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackde_DE-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPacken_US-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackes_ES-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackfr_FR-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackit_IT-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackja_JP-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPacknl_NL-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackpl_PL-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackpt_BR-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPackru_RU-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPacksv_SE-15.0.0</string>
+		<string>AdobeDreamweaverCC2014.1LangPacktr_TR-15.0.0</string>
 		<string>AdobeDreamweavercc1564Bit</string>
 	</array>
-    <key>munki_update_for</key>
-	<array>
-	    <string>AdobeDreamweaverCC2014</string>
-    </array>
-    <key>munki_repo_destination_path</key>
-    <string>apps/Adobe/CC/2014</string>
 </dict>
 </plist>
