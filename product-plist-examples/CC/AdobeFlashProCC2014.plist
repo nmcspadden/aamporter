@@ -5,15 +5,24 @@
 	<key>channels</key>
 	<array>
 		<string>AIRForAPPLEIOSFlashPro14.0</string>
+		<string>AdobeColorCommonSetCMYK-5.0</string>
+		<string>AdobeColorCommonSetRGB-5.0</string>
 		<string>CameraProfilesInstaller-8.0</string>
 		<string>FlashPro14.0PR</string>
+		<string>FlashPro14.0PRcs_CZ</string>
+		<string>FlashPro14.0PRde_DE</string>
+		<string>FlashPro14.0PRen_US</string>
+		<string>FlashPro14.0PRes_ES</string>
+		<string>FlashPro14.0PRfr_FR</string>
+		<string>FlashPro14.0PRit_IT</string>
+		<string>FlashPro14.0PRja_JP</string>
+		<string>FlashPro14.0PRnl_NL</string>
+		<string>FlashPro14.0PRpl_PL</string>
+		<string>FlashPro14.0PRpt_BR</string>
+		<string>FlashPro14.0PRru_RU</string>
+		<string>FlashPro14.0PRsv_SE</string>
+		<string>FlashPro14.0PRtr_TR</string>
 		<string>PhotoshopCameraRaw8-8.0</string>
 	</array>
-    <key>munki_update_for</key>
-	<array>
-	    <string>AdobeFlashProCC2014</string>
-    </array>
-    <key>munki_repo_destination_path</key>
-    <string>apps/Adobe/CC/2014</string>
 </dict>
 </plist>
